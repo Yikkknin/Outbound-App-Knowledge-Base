@@ -25,7 +25,7 @@
 
 ## 3. 买量端拆解 (UA & Creative Strategy)
 
-利用广大大（SocialPeta）、广大大（AppGrowing Global）或 Meta Ad Library 监测竞品的主投素材：
+利用广大大（SocialPeta）、AppGrowing Global 或 Meta Ad Library 监测竞品的主投素材：
 
 * **素材类型拆解**：分析竞品素材是以**副玩法诱导（Mini-game/Hook）**为主、**真实放置 Gameplay 展现**为主，还是**戏剧化剧情/挫败感冲突**为主。
 * **前 3 秒黄金 Hook 分析**：评估竞品素材如何在前 3 秒通过视觉冲击或强迫症痛点吸引海外用户停留并完成转化，统计其主投素材的生命周期与迭代频率。
